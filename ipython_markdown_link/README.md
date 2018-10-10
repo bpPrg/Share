@@ -1,3 +1,3 @@
 # Example
 
-[ipython notebook](https://github.com/bpPrg/Share/blob/master/ipython_markdown_link/a.ipynb#Section2)
+[ipython notebook](a.ipynb#Section2)
